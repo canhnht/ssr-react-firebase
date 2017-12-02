@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "ssr-react-16f70",
+    "ssr": "ssr-react-16f70"
+  }
+}
